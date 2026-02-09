@@ -44,7 +44,7 @@ The project demonstrates robust state estimation under nonlinear motion and meas
 
 ---
 
-## 🗂 Repository Structure, Build & Run
+## Build & Run
 
 
 **Requirements**
