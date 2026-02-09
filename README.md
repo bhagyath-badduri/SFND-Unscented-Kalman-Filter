@@ -8,7 +8,8 @@ The project demonstrates robust state estimation under nonlinear motion and meas
 
 ## 🎥 Demo – Highway Vehicle Tracking
 
-![UKF Highway Tracking](video/ukf_demo.gif)
+![UKF Highway Tracking](ukf_highway_tracked.gif)
+
 
 ---
 
