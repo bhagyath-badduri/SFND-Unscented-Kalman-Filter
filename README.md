@@ -4,12 +4,13 @@ This repository contains a **C++ implementation of an Unscented Kalman Filter (U
 
 The project demonstrates robust state estimation under nonlinear motion and measurement models, which are critical in **autonomous driving**, **robotics perception**, and **multi-target tracking systems**.
 
+**Author:** Bhagyath Badduri
+
 ---
 
 ## 🎥 Demo – Highway Vehicle Tracking
 
 ![UKF Highway Tracking](ukf_highway_tracked.gif)
-
 
 ---
 
@@ -47,23 +48,16 @@ The project demonstrates robust state estimation under nonlinear motion and meas
 
 ## Build & Run
 
-
 **Requirements**
 - C++11 or later  
 - CMake ≥ 3.5  
 - Eigen  
 - PCL (Point Cloud Library)
 
-**Build**
+**Build and Execute**
 ```bash
 mkdir build
 cd build
 cmake ..
 make
 ./ukf_highway
-
-
-
-
-
-
