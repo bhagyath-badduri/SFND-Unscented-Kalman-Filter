@@ -62,9 +62,7 @@ cmake ..
 make
 ./ukf_highway
 
-## Acknowledgement
-This project was developed as part of the Udacity Sensor Fusion Nanodegree.
-The implementation, customization, and documentation reflect my own work and understanding of Unscented Kalman Filters and multi-sensor fusion.
+
 
 
 
