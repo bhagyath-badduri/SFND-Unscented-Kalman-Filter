@@ -182,4 +182,3 @@ This project demonstrates practical understanding of:
 - **RADAR and LiDAR sensor simulation**
 
 
-└── LICENSE
