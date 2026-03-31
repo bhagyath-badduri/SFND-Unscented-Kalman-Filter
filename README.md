@@ -181,23 +181,5 @@ This project demonstrates practical understanding of:
 - **PCL (Point Cloud Library)**
 - **RADAR and LiDAR sensor simulation**
 
----
 
-## Repository Structure
-
-```text
-unscented-kalman-filter-sensor-fusion/
-│
-├── src/
-│   ├── ukf.cpp
-│   ├── ukf.h
-│   ├── tools.cpp
-│   ├── tools.h
-│   ├── main.cpp
-│   ├── highway.h
-│   └── measurement_package.h
-│
-├── ukf_highway_tracked.gif
-├── CMakeLists.txt
-├── README.md
 └── LICENSE
